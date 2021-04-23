@@ -25,5 +25,3 @@ public class formatter {
         return days;
     }
 }
-/* todo: oliolista, oliot jotka listata, mahd muunna csv muotoon,API implementaatio
-*   todo2: dokumentaatio, video, repo  */
